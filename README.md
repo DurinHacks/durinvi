@@ -22,7 +22,7 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 3. Download the current release from [here](https://github.com/DurinHacks/durinvi/releases)
 4. Extract the bin.zip archive to wherever you like
 
-### Do this everytime you want to use the tools
+### Do this every time you want to use the tools
 
 1. Start the game as usual
 2. Go to deskop (e.g. press ALT+TAB)
@@ -40,9 +40,9 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 ### General Features
 
 * Launcher for injection
-* Patternscan for valid offsets
+* Pattern-scan for valid offsets
 
-### Reverse engineered features
+### Reverse-engineered features
 * Custom field of view
 * ~~Distance Fog~~
 
