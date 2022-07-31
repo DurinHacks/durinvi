@@ -10,10 +10,9 @@
 
 This project contains the binaries for Lord of the Rings Online - Durin VI Edition. This project aims to extend the game with - for other players - non-interfering features, that are still missing from the game options.
 ## Important Note
-**Use this software at your own risk**. The binaries are altering the games code in the PCs memory and therefore might be identified as a hack or virus. If you use an anti virus software it might quarantine the files. This is a false positive because the injection method used is actually an intended behaviour.<br>
-As an [official response](https://www.lotro.com/forums/showthread.php?684404-motion-sickness-FOV-and-a-question-for-SSG&p=8045778#post8045778) stated, `Standing Stone Games` is not taking action against third party tools which enhance the experience of the game as long as it's not granting an unfair advantage over other players.
-Yet, SSG might change their position in the future, regarding this topic and thus ban suspected accounts on this matter. **However** we're not granting any such advantage and we're using those tools ourselves for nearly a decade now with the game - not affecting the gameplay or harming others, it's to be considered safe.<br>
-That being said we're hoping you enjoy this project as much as we do and that it's adding to your experience within the game.
+**Use this software at your own risk**. The binaries are altering the game's code in the PC's memory and therefore might be identified as a hack or virus. If you use an anti-virus software it might quarantine the files. This is a false positive because the code injection is intended behavior and does not cause any harm.<br>
+As an [official response](https://www.lotro.com/forums/showthread.php?684404-motion-sickness-FOV-and-a-question-for-SSG&p=8045778#post8045778) stated, `Standing Stone Games` is not taking action against third-party tools that enhance the experience of players in-game as long as it's not granting an unfair advantage over other players. Yet, Standing Stone Games might change their position in the future, regarding this topic and thus might ban suspected accounts on this matter. **However**, we're not granting any such advantage and we're using those tools ourselves for nearly a decade now - not affecting the gameplay or harming others, it's to be considered safe.<br>
+That said, we're hoping you enjoy this project as much as we do and that it's adding to your experience in-game.
 
 ## Usage
 ### Do this once
