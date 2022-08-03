@@ -9,6 +9,7 @@
 # Lord of the Rings Online - Durin VI Edition
 
 This project contains the binaries for Lord of the Rings Online - Durin VI Edition. This project aims to extend the game with - for other players - non-interfering features, that are still missing from the game options.
+
 ## Important Note
 **Use this software at your own risk**. The binaries are altering the game's code in the PC's memory and therefore might be identified as a hack or virus. If you use an anti-virus software it might quarantine the files. This is a false positive because the code injection is intended behavior and does not cause any harm.<br>
 As an [official response](https://www.lotro.com/forums/showthread.php?684404-motion-sickness-FOV-and-a-question-for-SSG&p=8045778#post8045778) stated, `Standing Stone Games` is not taking action against third-party tools that enhance the experience of players in-game as long as it's not granting an unfair advantage over other players. Yet, Standing Stone Games might change their position in the future, regarding this topic and thus might ban suspected accounts on this matter. **However**, we're not granting any such advantage and we're using those tools ourselves for nearly a decade now - not affecting the gameplay or harming others, it's to be considered safe.<br>
@@ -50,7 +51,7 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 
 * [Lotro-FOV by Mklink](https://github.com/mklinik/lotro-fov) provides a manual on how to alter the FOV, to help players with motion sickness.
 * [MouseTracks by huntfx](https://github.com/huntfx/MouseTracks/) captures mouse input over a period of time for display in statistical graphics.
-* [OneLauncher by JeremyStepp](https://github.com/JeremyStepp/OneLauncher) aims to provide a custom launcher for Lotro with advanced features.
+* [OneLauncher by JuneStepp](https://github.com/JuneStepp/OneLauncher) aims to provide a custom launcher for Lotro with advanced features.
 
 ## Comparison Gallery
 
