@@ -54,6 +54,7 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 * [Lotro-FOV by Mklink](https://github.com/mklinik/lotro-fov) provides a manual on how to alter the FOV, to help players with motion sickness.
 * [MouseTracks by huntfx](https://github.com/huntfx/MouseTracks/) captures mouse input over a period of time for display in statistical graphics.
 * [OneLauncher by JuneStepp](https://github.com/JuneStepp/OneLauncher) aims to provide a custom launcher for Lotro with advanced features.
+* [MMOAction by ils94](https://github.com/ils94/MMOAction) provides an action camera for common MMOs written in Python.
 
 ## Comparison Gallery
 
