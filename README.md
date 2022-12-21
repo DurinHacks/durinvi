@@ -2,7 +2,7 @@
 
 [![GitHub tag][shield_release]](https://github.com/DurinHacks/durinvi/releases)
 [![GitHub issues][shield_issue]](https://github.com/DurinHacks/durinvi/issues)
-[![Lotro Version][shield_version]](https://www.lotro.com/en/content/update-2902-release-notes)
+[![Lotro Version][shield_version]](https://www.lotro.com/update-notes/lotro-update-34-1-1-release-notes-de)
 
 <img align="left" width="54px" src="screens/appicon.ico" />
 
@@ -34,6 +34,7 @@ That said, we're hoping you enjoy this project as much as we do and that it's ad
 Please unbind all actions from the Numpad on your keyboard as this project uses these keys for its own actions.
 
 * **F1** Reverts all changes and unloads the program
+* **F2** Triggers the action camera (press SHIFT to temporarily use the mouse)
 * **NUMPAD ADD** Increases the field of view
 * **NUMPAD SUBTRACT** Decreases the field of view
 
@@ -44,6 +45,7 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 * Pattern-scan for valid offsets
 
 ### Reverse-engineered features
+* Action camera
 * Custom field of view
 * ~~Distance Fog~~
 
@@ -59,4 +61,4 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 
 [shield_release]: https://img.shields.io/github/v/release/DurinHacks/durinvi?color=darklime&include_prereleases&style=for-the-badge
 [shield_issue]: https://img.shields.io/github/issues-raw/DurinHacks/durinvi?style=for-the-badge
-[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2033.1.1-red?style=for-the-badge
+[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2034.1.1-red?style=for-the-badge
