@@ -2,5 +2,5 @@ downloader.exe, 7d25d5d4b7738cfe2e36269dd5fdd3e1
 durin.dll, 251939fdd3fad0e894a0f34802dffba1
 durin.launcher.exe, 5cb902d798ae374ee77225e23bb8d872
 manifest.txt, d41d8cd98f00b204e9800998ecf8427e
-assets\regions.dr, fca41596bd7dd06d35d1c61ed2188d17
-assets\waynet.dw, ee67aa9bba9ee45972800ee51b9c45d2
+assets/regions.dr, fca41596bd7dd06d35d1c61ed2188d17
+assets/waynet.dw, ee67aa9bba9ee45972800ee51b9c45d2
