@@ -2,7 +2,7 @@
 
 [![GitHub tag][shield_release]](https://github.com/DurinHacks/durinvi/releases)
 [![GitHub issues][shield_issue]](https://github.com/DurinHacks/durinvi/issues)
-[![Lotro Version][shield_version]](https://www.lotro.com/update-notes/lotro-update-34-1-1-release-notes-de)
+[![Lotro Version][shield_version]](https://www.lotro.com/update-notes/lotro-update-36-2-release-notes-en)
 
 <img align="left" width="54px" src="screens/appicon.ico" />
 
@@ -63,4 +63,4 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 
 [shield_release]: https://img.shields.io/github/v/release/DurinHacks/durinvi?color=darklime&include_prereleases&style=for-the-badge
 [shield_issue]: https://img.shields.io/github/issues-raw/DurinHacks/durinvi?style=for-the-badge
-[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2034.1.1-red?style=for-the-badge
+[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2036.2-red?style=for-the-badge
