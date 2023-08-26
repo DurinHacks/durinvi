@@ -1,11 +1,6 @@
 downloader.exe, 8a40e7cf9e85bd4d08b055735a78c718
-durin.dll, 6e8a0cb6cba991849a4fcc31cf00df95
-durin.launcher.exe, 19f567fb776f47c81cc1625357349a3c
-durin.viewer.exe, 25821148a360a4e25528b7ae9555d149
-font.png, b2c4bb01424afdc9d93d764c429327cb
-FreeImage.dll, 557ae816ce660e89b181536d9165d1c8
+durin.dll, 251939fdd3fad0e894a0f34802dffba1
+durin.launcher.exe, 5cb902d798ae374ee77225e23bb8d872
 manifest.txt, d41d8cd98f00b204e9800998ecf8427e
-ps_default.hlsl, bd92d092ca6e7e98facd4d8244e13057
-vs_default.hlsl, a14398ccbe6ac47ce3ee1ad1d95069a4
-assets/regions.dr, ac79149776e3c2fe2ea2bde57ca21d7a
-assets/waynet.dw, 0b6e037769d1a123fab737160b595304
+assets/regions.dr, fca41596bd7dd06d35d1c61ed2188d17
+assets/waynet.dw, ee67aa9bba9ee45972800ee51b9c45d2
